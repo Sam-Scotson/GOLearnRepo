@@ -1,6 +1,6 @@
 //Go Master Learning List//
 
-//++ Golang code for printing current working directory ++
+// Golang code for printing current working directory
   
 package main
   
